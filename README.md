@@ -1,10 +1,6 @@
 # bookshelf-api
 Ini adalah proyek tugas submission untuk kelas "Belajar Membuat Aplikasi Back-End untuk Pemula" dari Dicoding. Proyek ini adalah implementasi sederhana dari API untuk manajemen buku.
 
-# Submission Bookshelf API
-
-![Bookshelf API](https://your-repository-url.com/logo.png)
-
 ## Instruksi Submission
 
 Berikut adalah instruksi untuk menyelesaikan submission "Bookshelf API" pada kelas "Belajar Membuat Aplikasi Back-End untuk Pemula" dari Dicoding.
